@@ -1,22 +1,25 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> We learned about redis in the big meeting.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Regarding curriculum project we got assigned to groups and I am a part of the plugin group.
+
+> We also researched the inner workings of git, more about the open source text editor atom and creating guis within 
+> Atom.
+
+> Our plugin group meeting was assigned.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+> Meet in the plugin group for the first time. Assign roles and decide what we need to do.
 
-> Examples: New Bugs to be fixed, Design choices
+> Create the open source repository for the project.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> No blocking yet
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Still a little confused about the whole project but should make more sense when we get into smaller groups and
+> get jobs.
