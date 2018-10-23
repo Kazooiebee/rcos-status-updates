@@ -10,6 +10,8 @@
 
 > Either get the services working or instead rewrite the code for our use.
 
+>UPDATE: found another guy who is stuck at the same point that I am but for a different reason so I can work with him to figure out how to do it.
+
 ## Anything Blocking?
 
 > How services work I wrote code following an example but it won't work, and all the packages are so complicated and I dont understand them.
