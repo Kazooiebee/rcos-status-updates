@@ -6,6 +6,8 @@
 
 > We also got a rudimentary basic bot somewhat working but it has no functionality yet, we will divide up work this week for next week.
 
+> I created a gitnore file to ingore all .txt files so all the sensitive data about gropume user id and passwords are not ever uploaded to git.
+
 ## This Week's Plan
 
 > Organize the code and learn how the bot works.
